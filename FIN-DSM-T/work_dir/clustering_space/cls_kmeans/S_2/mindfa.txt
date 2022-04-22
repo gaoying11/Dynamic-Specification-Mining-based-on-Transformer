@@ -1,0 +1,24 @@
+1
+C0
+1
+C2
+19
+C1	C1	add
+C1	C1	addAll:TRUE
+C1	C1	addAll:FALSE
+C1	C1	isEmpty:FALSE
+C1	C1	size
+C3	C1	ArrayList
+C1	C1	clone
+C1	C1	add:TRUE
+C1	C1	remove:TRUE
+C1	C1	toArray
+C1	C1	clear
+C1	C1	remove
+C1	C2	<END>
+C1	C1	set
+C1	C1	remove:FALSE
+C1	C1	isEmpty:TRUE
+C1	C1	get
+C0	C3	<START>
+C1	C1	indexOf

@@ -1,0 +1,12 @@
+<START> ArrayList add:TRUE toArray get isEmpty:FALSE toArray isEmpty:FALSE toArray size <END>
+	30	<START> ArrayList add:TRUE toArray get isEmpty:FALSE
+###################################
+<START> ArrayList toArray add isEmpty:FALSE toArray indexOf toArray size toArray remove isEmpty:TRUE <END>
+	30	<START> ArrayList toArray add isEmpty:FALSE toArray indexOf toArray size toArray remove isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE toArray get toArray add toArray get addAll:FALSE <END>
+	30	<START> ArrayList toArray size addAll:TRUE toArray get toArray add toArray get addAll:FALSE
+###################################
+<START> ArrayList add:TRUE toArray get isEmpty:FALSE toArray size remove:FALSE <END>
+	30	<START> ArrayList add:TRUE toArray get isEmpty:FALSE
+###################################

@@ -1,0 +1,527 @@
+<START> <START> ArrayList toArray size toArray isEmpty:TRUE indexOf toArray add <END>
+<START> <START> ArrayList isEmpty:TRUE clear size isEmpty:TRUE clear toArray add <END>
+<START> <START> ArrayList toArray indexOf add:TRUE <END>
+<START> <START> ArrayList clear toArray toArray <END>
+<START> <START> ArrayList toArray clear clear toArray size toArray size toArray size <END>
+<START> <START> ArrayList toArray addAll:TRUE remove:FALSE size toArray toArray size <END>
+<START> <START> ArrayList toArray size addAll:TRUE clear toArray size isEmpty:TRUE size toArray add:TRUE <END>
+<START> <START> ArrayList toArray clear size isEmpty:TRUE toArray add toArray isEmpty:FALSE size <END>
+<START> <START> ArrayList toArray clear clear toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size remove:FALSE size <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE toArray toArray <END>
+<START> <START> ArrayList toArray indexOf toArray <END>
+<START> <START> ArrayList remove:FALSE toArray size toArray remove:FALSE size <END>
+<START> <START> ArrayList add:TRUE clear clear toArray add <END>
+<START> <START> ArrayList toArray clear toArray add <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add clear <END>
+<START> <START> ArrayList remove:FALSE toArray toArray size indexOf indexOf <END>
+<START> <START> ArrayList clear toArray size toArray size toArray <END>
+<START> <START> ArrayList toArray add isEmpty:FALSE toArray addAll:TRUE toArray set isEmpty:FALSE <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE toArray toArray remove:FALSE toArray add:TRUE toArray remove:TRUE <END>
+<START> <START> ArrayList toArray toArray size clear toArray add toArray remove <END>
+<START> <START> ArrayList clear toArray toArray add toArray <END>
+<START> <START> ArrayList toArray add clear isEmpty:TRUE toArray <END>
+<START> <START> ArrayList clear isEmpty:TRUE toArray <END>
+<START> <START> ArrayList size toArray size addAll:TRUE indexOf <END>
+<START> <START> ArrayList toArray clear toArray isEmpty:TRUE add:TRUE toArray add <END>
+<START> <START> ArrayList toArray add toArray size addAll:TRUE clear <END>
+<START> <START> ArrayList toArray size addAll:TRUE clear toArray size isEmpty:TRUE size <END>
+<START> <START> ArrayList toArray size toArray isEmpty:TRUE toArray indexOf <END>
+<START> <START> ArrayList toArray indexOf toArray toArray size <END>
+<START> <START> ArrayList remove:FALSE toArray toArray remove:FALSE toArray size toArray <END>
+<START> <START> ArrayList indexOf add:TRUE clear toArray remove:FALSE <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add toArray remove <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE toArray size toArray size add:TRUE <END>
+<START> <START> ArrayList toArray clear clear isEmpty:TRUE indexOf indexOf toArray add toArray get <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size indexOf <END>
+<START> <START> ArrayList toArray size addAll:TRUE clear toArray size toArray add add:TRUE <END>
+<START> <START> ArrayList toArray toArray add toArray remove toArray add <END>
+<START> <START> ArrayList clear toArray size toArray size toArray add <END>
+<START> <START> ArrayList toArray clear clear isEmpty:TRUE toArray size clear <END>
+<START> <START> ArrayList toArray size toArray isEmpty:TRUE toArray size <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size toArray isEmpty:TRUE addAll:TRUE <END>
+<START> <START> ArrayList toArray size addAll:TRUE clear toArray size clear remove:FALSE toArray <END>
+<START> <START> ArrayList toArray toArray size addAll:TRUE remove:FALSE toArray get <END>
+<START> <START> ArrayList toArray addAll:TRUE remove:FALSE size toArray <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size remove:FALSE clear <END>
+<START> <START> ArrayList clear toArray size toArray <END>
+<START> <START> ArrayList toArray clear remove:FALSE toArray add toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size add:TRUE <END>
+<START> <START> ArrayList toArray size size toArray size isEmpty:TRUE toArray add isEmpty:FALSE <END>
+<START> <START> ArrayList size isEmpty:TRUE toArray <END>
+<START> <START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE clear isEmpty:TRUE <END>
+<START> <START> ArrayList toArray toArray size toArray size toArray size isEmpty:TRUE toArray <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray remove toArray get <END>
+<START> <START> ArrayList toArray remove:FALSE add:TRUE <END>
+<START> <START> ArrayList toArray clear size isEmpty:TRUE toArray add toArray toArray <END>
+<START> <START> ArrayList toArray add clear indexOf isEmpty:TRUE toArray size <END>
+<START> <START> ArrayList toArray add isEmpty:FALSE add:TRUE toArray get <END>
+<START> <START> ArrayList indexOf add:TRUE clear toArray clear <END>
+<START> <START> ArrayList indexOf isEmpty:TRUE toArray size clear <END>
+<START> <START> ArrayList toArray remove:FALSE toArray <END>
+<START> <START> ArrayList toArray toArray size addAll:TRUE toArray remove:FALSE <END>
+<START> <START> ArrayList toArray indexOf remove:FALSE <END>
+<START> <START> ArrayList remove:FALSE toArray toArray size toArray <END>
+<START> <START> ArrayList toArray clear toArray size <END>
+<START> <START> ArrayList toArray clear toArray add addAll:TRUE <END>
+<START> <START> ArrayList remove:FALSE toArray toArray <END>
+<START> <START> ArrayList size isEmpty:TRUE toArray toArray toArray <END>
+<START> <START> ArrayList toArray toArray isEmpty:TRUE clear addAll:TRUE <END>
+<START> <START> ArrayList isEmpty:TRUE toArray toArray toArray size toArray <END>
+<START> <START> ArrayList toArray size addAll:TRUE clear toArray size addAll:TRUE indexOf toArray size <END>
+<START> <START> ArrayList addAll:TRUE clear toArray size toArray <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size remove:FALSE <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size isEmpty:TRUE <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size remove:FALSE addAll:TRUE clear <END>
+<START> <START> ArrayList clear remove:FALSE toArray size <END>
+<START> <START> ArrayList toArray clear toArray add toArray size indexOf <END>
+<START> <START> ArrayList isEmpty:TRUE clear toArray add isEmpty:FALSE toArray <END>
+<START> <START> ArrayList remove:FALSE toArray toArray remove:FALSE isEmpty:TRUE <END>
+<START> <START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE indexOf clear size <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add toArray size toArray size <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add size toArray toArray size <END>
+<START> <START> ArrayList toArray size addAll:TRUE clear toArray size size toArray <END>
+<START> <START> ArrayList isEmpty:TRUE clear toArray add size toArray size <END>
+<START> <START> ArrayList toArray clear remove:FALSE toArray add isEmpty:FALSE addAll:TRUE <END>
+<START> <START> ArrayList remove:FALSE toArray toArray size isEmpty:TRUE toArray size toArray add <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size toArray size remove:FALSE <END>
+<START> <START> ArrayList size isEmpty:TRUE clear toArray size add:TRUE <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE isEmpty:TRUE clear toArray <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE toArray toArray addAll:TRUE <END>
+<START> <START> ArrayList remove:FALSE toArray toArray toArray <END>
+<START> <START> ArrayList toArray isEmpty:TRUE add:TRUE isEmpty:FALSE <END>
+<START> <START> ArrayList toArray size toArray size isEmpty:TRUE toArray add <END>
+<START> <START> ArrayList toArray clear remove:FALSE toArray add toArray isEmpty:FALSE <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray get <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE toArray <END>
+<START> <START> ArrayList indexOf toArray size addAll:FALSE clear addAll:FALSE toArray add <END>
+<START> <START> ArrayList toArray clear clear toArray add <END>
+<START> <START> ArrayList toArray add clear indexOf isEmpty:TRUE isEmpty:TRUE toArray <END>
+<START> <START> ArrayList toArray size addAll:TRUE clear toArray size clear remove:FALSE isEmpty:TRUE toArray add <END>
+<START> <START> ArrayList toArray toArray size size toArray size isEmpty:TRUE toArray add:TRUE addAll:TRUE <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size toArray size indexOf indexOf toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add toArray size remove:FALSE <END>
+<START> <START> ArrayList toArray clear clear toArray toArray size <END>
+<START> <START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add:TRUE <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size toArray size toArray <END>
+<START> <START> ArrayList remove:FALSE toArray clear toArray <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray add toArray <END>
+<START> <START> ArrayList add:TRUE toArray get isEmpty:FALSE toArray isEmpty:FALSE toArray size <END>
+<START> <START> ArrayList indexOf toArray size addAll:FALSE clear toArray size remove:FALSE toArray add toArray add <END>
+<START> <START> ArrayList toArray size addAll:TRUE size toArray get toArray add toArray add:TRUE <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray add toArray toArray add <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray add indexOf <END>
+<START> <START> ArrayList toArray add isEmpty:FALSE toArray toArray add:TRUE remove:FALSE toArray remove:TRUE <END>
+<START> <START> ArrayList size toArray size isEmpty:TRUE toArray add <END>
+<START> <START> ArrayList addAll:FALSE size clear toArray size isEmpty:TRUE <END>
+<START> <START> ArrayList indexOf clear toArray size clear <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add size toArray isEmpty:FALSE <END>
+<START> <START> ArrayList toArray size toArray isEmpty:TRUE toArray size isEmpty:TRUE toArray <END>
+<START> <START> ArrayList toArray toArray toArray size isEmpty:TRUE toArray <END>
+<START> <START> ArrayList toArray size toArray isEmpty:TRUE indexOf toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add toArray add toArray size size toArray set <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size toArray size indexOf indexOf <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size <END>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+<START> <START> ArrayList toArray clear toArray toArray <END>
+<START> <START> ArrayList toArray add toArray addAll:TRUE add:TRUE <END>
+<START> <START> ArrayList toArray toArray size toArray size toArray isEmpty:TRUE toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add size toArray remove <END>
+<START> <START> ArrayList toArray remove:FALSE <END>
+<START> <START> ArrayList toArray toArray clear toArray size remove:FALSE <END>
+<START> <START> ArrayList indexOf clear toArray size toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add toArray remove toArray toArray size <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray add addAll:FALSE <END>
+<START> <START> ArrayList indexOf add:TRUE clear toArray toArray add toArray remove toArray <END>
+<START> <START> ArrayList add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE clear toArray <END>
+<START> <START> ArrayList indexOf isEmpty:TRUE toArray size <END>
+<START> <START> ArrayList toArray size size remove:FALSE addAll:TRUE toArray get <END>
+<START> <START> ArrayList indexOf isEmpty:TRUE toArray size toArray <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray size toArray size indexOf <END>
+<START> <START> ArrayList isEmpty:TRUE remove:FALSE toArray add toArray add toArray get <END>
+<START> <START> ArrayList toArray clear toArray add toArray add addAll:FALSE <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add clear toArray size <END>
+<START> <START> ArrayList clear toArray size toArray clear <END>
+<START> <START> ArrayList toArray size size isEmpty:TRUE toArray clear <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray add toArray get remove:FALSE clear <END>
+<START> <START> ArrayList toArray addAll:FALSE isEmpty:TRUE toArray add <END>
+<START> <START> ArrayList indexOf isEmpty:TRUE toArray add <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE toArray toArray remove:FALSE toArray <END>
+<START> <START> ArrayList toArray size remove:FALSE clear toArray add indexOf <END>
+<START> <START> ArrayList isEmpty:TRUE clear toArray add toArray add toArray size <END>
+<START> <START> ArrayList toArray clear toArray clear <END>
+<START> <START> ArrayList clear toArray clear toArray <END>
+<START> <START> ArrayList remove:FALSE toArray size remove:FALSE <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add <END>
+<START> <START> ArrayList isEmpty:TRUE clear toArray add size clear toArray <END>
+<START> <START> ArrayList toArray size toArray isEmpty:TRUE isEmpty:TRUE toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add:TRUE toArray size toArray toArray size <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray toArray remove toArray get <END>
+<START> <START> ArrayList remove:FALSE toArray toArray size toArray add <END>
+<START> <START> ArrayList toArray toArray remove:FALSE toArray <END>
+<START> <START> ArrayList remove:FALSE toArray toArray toArray toArray <END>
+<START> <START> ArrayList toArray size clear remove:FALSE toArray add <END>
+<START> <START> ArrayList add:TRUE clear toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size toArray size toArray size <END>
+<START> <START> ArrayList indexOf add:TRUE clear toArray toArray toArray <END>
+<START> <START> ArrayList toArray clear toArray size toArray remove:FALSE <END>
+<START> <START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE toArray size toArray add <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray toArray <END>
+<START> <START> ArrayList toArray add isEmpty:FALSE toArray addAll:TRUE toArray size clear <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE toArray toArray remove:FALSE toArray remove:FALSE toArray <END>
+<START> <START> ArrayList toArray toArray size clear toArray add clear clear <END>
+<START> <START> ArrayList clear toArray toArray size toArray size <END>
+<START> <START> ArrayList toArray toArray size addAll:TRUE addAll:FALSE toArray remove toArray <END>
+<START> <START> ArrayList toArray clear clear isEmpty:TRUE toArray clear add:TRUE <END>
+<START> <START> ArrayList remove:FALSE toArray size toArray <END>
+<START> <START> ArrayList toArray add isEmpty:FALSE toArray toArray add:TRUE remove:FALSE <END>
+<START> <START> ArrayList add:TRUE add:TRUE add:TRUE clear toArray isEmpty:TRUE isEmpty:TRUE <END>
+<START> <START> ArrayList toArray size addAll:TRUE isEmpty:FALSE remove:FALSE toArray remove <END>
+<START> <START> ArrayList toArray clear toArray size toArray toArray size <END>
+<START> <START> ArrayList isEmpty:TRUE remove:FALSE toArray add indexOf toArray set <END>
+<START> <START> ArrayList remove:FALSE toArray indexOf <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE toArray size toArray <END>
+<START> <START> ArrayList toArray size addAll:TRUE clear toArray size toArray add size <END>
+<START> <START> ArrayList add:TRUE clear toArray size clear <END>
+<START> <START> ArrayList toArray toArray size addAll:TRUE remove:FALSE toArray remove <END>
+<START> <START> ArrayList toArray clear toArray size clear toArray size <END>
+<START> <START> ArrayList isEmpty:TRUE remove:FALSE size toArray add toArray get indexOf <END>
+<START> <START> ArrayList clear toArray toArray size clear size <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE clear toArray size <END>
+<START> <START> ArrayList toArray size toArray size toArray size isEmpty:TRUE toArray <END>
+<START> <START> ArrayList isEmpty:TRUE remove:FALSE indexOf toArray <END>
+<START> <START> ArrayList toArray size addAll:TRUE toArray get remove:FALSE <END>
+<START> <START> ArrayList clear toArray size clear isEmpty:TRUE indexOf <END>
+<START> <START> ArrayList clear toArray size <END>
+<START> <START> ArrayList toArray size addAll:TRUE isEmpty:FALSE remove:FALSE <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add toArray <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size isEmpty:TRUE <END>
+<START> <START> ArrayList toArray size indexOf isEmpty:TRUE toArray <END>
+<START> <START> ArrayList toArray add isEmpty:FALSE toArray addAll:TRUE toArray add toArray remove <END>
+<START> <START> ArrayList toArray add isEmpty:FALSE toArray addAll:TRUE add:TRUE <END>
+<START> <START> ArrayList toArray clear clear toArray size toArray <END>
+<START> <START> ArrayList clear toArray size clear addAll:TRUE clear <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray add toArray get remove:FALSE toArray set <END>
+<START> <START> ArrayList toArray toArray clear toArray size add:TRUE <END>
+<START> <START> ArrayList toArray size indexOf isEmpty:TRUE isEmpty:TRUE toArray <END>
+<START> <START> ArrayList clear toArray clear add:TRUE <END>
+<START> <START> ArrayList toArray isEmpty:TRUE addAll:TRUE <END>
+<START> <START> ArrayList toArray add:TRUE addAll:TRUE <END>
+<START> <START> ArrayList add:TRUE add:TRUE add:TRUE clear toArray <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size toArray toArray size <END>
+<START> <START> ArrayList indexOf clear toArray <END>
+<START> <START> ArrayList toArray add:TRUE add:TRUE addAll:FALSE <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray add toArray remove:FALSE <END>
+<START> <START> ArrayList isEmpty:TRUE isEmpty:TRUE toArray <END>
+<START> <START> ArrayList toArray size addAll:TRUE isEmpty:FALSE indexOf <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size clear <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add toArray remove toArray remove:FALSE isEmpty:TRUE <END>
+<START> <START> ArrayList toArray clear toArray size toArray add toArray <END>
+<START> <START> ArrayList toArray add:TRUE isEmpty:FALSE toArray <END>
+<START> <START> ArrayList toArray size remove:FALSE toArray isEmpty:TRUE toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size toArray add:TRUE <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray toArray add toArray <END>
+<START> <START> ArrayList toArray toArray size toArray size isEmpty:TRUE toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add size toArray get toArray remove isEmpty:TRUE clear <END>
+<START> <START> ArrayList remove:FALSE addAll:TRUE clear toArray size indexOf <END>
+<START> <START> ArrayList toArray toArray size size toArray size isEmpty:TRUE toArray <END>
+<START> <START> ArrayList toArray size indexOf clear toArray toArray size toArray add remove:FALSE clear <END>
+<START> <START> ArrayList size isEmpty:TRUE toArray toArray <END>
+<START> <START> ArrayList toArray addAll:FALSE toArray add <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray size toArray size indexOf toArray <END>
+<START> <START> ArrayList remove:FALSE toArray remove:FALSE <END>
+<START> <START> ArrayList toArray toArray size size toArray size size isEmpty:TRUE toArray size <END>
+<START> <START> ArrayList remove:FALSE toArray toArray toArray size toArray size <END>
+<START> <START> ArrayList toArray indexOf clear <END>
+<START> <START> ArrayList toArray add isEmpty:FALSE add:TRUE toArray remove indexOf <END>
+<START> <START> ArrayList toArray clear remove:FALSE toArray add isEmpty:FALSE clear <END>
+<START> <START> ArrayList indexOf add:TRUE clear toArray toArray toArray size <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray toArray add <END>
+<START> <START> ArrayList toArray clear clear clear toArray <END>
+<START> <START> ArrayList toArray toArray size size toArray size isEmpty:TRUE toArray add:TRUE <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray add toArray get size remove:FALSE <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add toArray remove toArray remove:FALSE toArray size <END>
+<START> <START> ArrayList toArray clear size isEmpty:TRUE toArray add toArray <END>
+<START> <START> ArrayList remove:FALSE toArray clear <END>
+<START> <START> ArrayList clear toArray size toArray size indexOf <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size toArray isEmpty:TRUE <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE toArray size toArray size <END>
+<START> <START> ArrayList toArray size indexOf remove:FALSE isEmpty:TRUE size toArray add <END>
+<START> <START> ArrayList isEmpty:TRUE toArray addAll:FALSE <END>
+<START> <START> ArrayList toArray add isEmpty:FALSE toArray indexOf isEmpty:FALSE add:TRUE add:TRUE <END>
+<START> <START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE indexOf <END>
+<START> <START> ArrayList remove:FALSE toArray toArray size toArray remove:FALSE <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size addAll:FALSE toArray <END>
+<START> <START> ArrayList toArray clear toArray <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size clear toArray size clear remove:FALSE <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray add indexOf toArray size toArray size <END>
+<START> <START> ArrayList toArray size clear toArray add toArray toArray add <END>
+<START> <START> ArrayList isEmpty:TRUE toArray isEmpty:TRUE size <END>
+<START> <START> ArrayList isEmpty:TRUE toArray toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add toArray remove toArray toArray size toArray <END>
+<START> <START> ArrayList toArray clear remove:FALSE toArray add isEmpty:FALSE toArray <END>
+<START> <START> ArrayList toArray size addAll:TRUE clear toArray size addAll:TRUE <END>
+<START> <START> ArrayList toArray addAll:TRUE remove:FALSE size toArray toArray <END>
+<START> <START> ArrayList toArray add clear indexOf isEmpty:TRUE <END>
+<START> <START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE toArray size <END>
+<START> <START> ArrayList toArray indexOf add:TRUE indexOf <END>
+<START> <START> ArrayList toArray size size isEmpty:TRUE toArray <END>
+<START> <START> ArrayList indexOf toArray size addAll:FALSE clear toArray add <END>
+<START> <START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE clear toArray <END>
+<START> <START> ArrayList remove:FALSE toArray toArray size size <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add size toArray get <END>
+<START> <START> ArrayList size isEmpty:TRUE add:TRUE toArray set addAll:TRUE <END>
+<START> <START> ArrayList toArray addAll:TRUE indexOf <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size toArray add toArray size <END>
+<START> <START> ArrayList isEmpty:TRUE remove:FALSE size toArray add size toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size remove:FALSE <END>
+<START> <START> ArrayList add:TRUE clear toArray toArray <END>
+<START> <START> ArrayList toArray size addAll:TRUE isEmpty:FALSE remove:FALSE isEmpty:FALSE <END>
+<START> <START> ArrayList remove:FALSE toArray size toArray remove:FALSE <END>
+<START> <START> ArrayList isEmpty:TRUE clear size toArray size toArray add toArray remove <END>
+<START> <START> ArrayList toArray add toArray toArray remove toArray add <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add:TRUE toArray add <END>
+<START> <START> ArrayList add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE clear toArray isEmpty:TRUE clear <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray size toArray size indexOf toArray remove indexOf toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray isEmpty:TRUE toArray add <END>
+<START> <START> ArrayList toArray remove:FALSE isEmpty:TRUE <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size clear toArray size add:TRUE <END>
+<START> <START> ArrayList toArray toArray add toArray remove add:TRUE <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE isEmpty:TRUE addAll:TRUE <END>
+<START> <START> ArrayList toArray indexOf toArray add toArray add <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size toArray <END>
+<START> <START> ArrayList toArray size addAll:TRUE clear toArray size toArray add toArray set <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray add indexOf toArray size <END>
+<START> <START> ArrayList toArray clear toArray add toArray get toArray remove toArray size <END>
+<START> <START> ArrayList remove:FALSE clear toArray add size <END>
+<START> <START> ArrayList toArray size addAll:TRUE clear toArray size clear remove:FALSE isEmpty:TRUE toArray <END>
+<START> <START> ArrayList clear toArray add <END>
+<START> <START> ArrayList toArray clear toArray isEmpty:TRUE toArray <END>
+<START> <START> ArrayList toArray add clear indexOf isEmpty:TRUE clear toArray <END>
+<START> <START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE toArray isEmpty:FALSE toArray set <END>
+<START> <START> ArrayList indexOf add:TRUE clear toArray size <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add size toArray get toArray set toArray remove <END>
+<START> <START> ArrayList toArray clear toArray isEmpty:TRUE add:TRUE <END>
+<START> <START> ArrayList isEmpty:TRUE clear toArray add toArray size toArray remove <END>
+<START> <START> ArrayList toArray add:TRUE addAll:TRUE remove:TRUE <END>
+<START> <START> ArrayList toArray add isEmpty:FALSE toArray indexOf toArray size toArray remove isEmpty:TRUE <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size clear toArray size toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add toArray remove toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add size <END>
+<START> <START> ArrayList isEmpty:TRUE clear isEmpty:TRUE toArray size <END>
+<START> <START> ArrayList isEmpty:TRUE remove:FALSE indexOf toArray size <END>
+<START> <START> ArrayList toArray addAll:FALSE toArray add:TRUE clear toArray add <END>
+<START> <START> ArrayList toArray add toArray set addAll:TRUE toArray add add:TRUE <END>
+<START> <START> ArrayList isEmpty:TRUE remove:FALSE toArray add addAll:TRUE <END>
+<START> <START> ArrayList add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE clear toArray toArray <END>
+<START> <START> ArrayList toArray size size remove:FALSE addAll:TRUE toArray get toArray set <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size toArray size indexOf toArray <END>
+<START> <START> ArrayList toArray size addAll:TRUE clear toArray size isEmpty:TRUE toArray size toArray <END>
+<START> <START> ArrayList toArray size addAll:TRUE clear toArray size clear <END>
+<START> <START> ArrayList toArray toArray add add:TRUE remove:FALSE indexOf toArray set <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size toArray addAll:FALSE <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray add <END>
+<START> <START> ArrayList size isEmpty:TRUE toArray size toArray size toArray <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size remove:FALSE toArray size <END>
+<START> <START> ArrayList clear indexOf toArray <END>
+<START> <START> ArrayList toArray size clear toArray add <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE toArray size indexOf <END>
+<START> <START> ArrayList remove:FALSE toArray size clear toArray <END>
+<START> <START> ArrayList toArray size clear toArray toArray add indexOf size <END>
+<START> <START> ArrayList add:TRUE clear toArray size toArray <END>
+<START> <START> ArrayList toArray clear clear clear toArray size <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add toArray add toArray size size toArray size <END>
+<START> <START> ArrayList toArray toArray size clear clear toArray <END>
+<START> <START> ArrayList toArray size addAll:TRUE toArray get toArray add toArray get addAll:FALSE <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE toArray size size toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size toArray size addAll:FALSE <END>
+<START> <START> ArrayList toArray toArray remove:FALSE <END>
+<START> <START> ArrayList toArray indexOf <END>
+<START> <START> ArrayList toArray size indexOf addAll:TRUE toArray set toArray add <END>
+<START> <START> ArrayList add:TRUE add:TRUE add:TRUE clear toArray clear <END>
+<START> <START> ArrayList isEmpty:TRUE toArray toArray toArray size <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add clear addAll:TRUE isEmpty:FALSE <END>
+<START> <START> ArrayList size isEmpty:TRUE toArray size toArray size <END>
+<START> <START> ArrayList clear toArray toArray size clear remove:FALSE <END>
+<START> <START> ArrayList toArray clear toArray size clear indexOf <END>
+<START> <START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE size <END>
+<START> <START> ArrayList toArray toArray isEmpty:TRUE isEmpty:TRUE toArray addAll:TRUE <END>
+<START> <START> ArrayList toArray toArray clear toArray size <END>
+<START> <START> ArrayList toArray clear toArray add toArray size toArray size <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE toArray toArray remove:FALSE toArray add:TRUE <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size toArray size size <END>
+<START> <START> ArrayList toArray add isEmpty:FALSE toArray toArray remove toArray clear <END>
+<START> <START> ArrayList clear toArray size toArray size <END>
+<START> <START> ArrayList remove:FALSE toArray toArray size isEmpty:TRUE toArray size addAll:FALSE <END>
+<START> <START> ArrayList clear toArray size clear toArray size <END>
+<START> <START> ArrayList toArray isEmpty:TRUE add:TRUE toArray isEmpty:FALSE toArray <END>
+<START> <START> ArrayList size isEmpty:TRUE toArray size toArray size toArray add <END>
+<START> <START> ArrayList size isEmpty:TRUE toArray toArray clear <END>
+<START> <START> ArrayList toArray size addAll:TRUE size toArray get toArray add <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size remove:FALSE addAll:TRUE <END>
+<START> <START> ArrayList toArray clear toArray size toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray toArray size <END>
+<START> <START> ArrayList isEmpty:TRUE clear toArray add toArray add toArray <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size toArray isEmpty:TRUE addAll:FALSE <END>
+<START> <START> ArrayList toArray add toArray remove toArray size isEmpty:TRUE <END>
+<START> <START> ArrayList toArray add clear indexOf isEmpty:TRUE remove:FALSE <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add toArray remove toArray toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add size isEmpty:FALSE <END>
+<START> <START> ArrayList toArray clear clear isEmpty:TRUE toArray remove:FALSE addAll:FALSE <END>
+<START> <START> ArrayList remove:FALSE clear toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size toArray size addAll:FALSE toArray size clear remove:FALSE <END>
+<START> <START> ArrayList indexOf isEmpty:TRUE toArray <END>
+<START> <START> ArrayList toArray clear remove:FALSE toArray add <END>
+<START> <START> ArrayList toArray size addAll:TRUE size toArray get <END>
+<START> <START> ArrayList indexOf isEmpty:TRUE remove:FALSE toArray size <END>
+<START> <START> ArrayList remove:FALSE toArray <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray add <END>
+<START> <START> ArrayList toArray add:TRUE isEmpty:FALSE <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size toArray toArray size isEmpty:TRUE toArray add toArray <END>
+<START> <START> ArrayList clear size toArray size clear <END>
+<START> <START> ArrayList addAll:TRUE clear toArray size <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray size toArray get toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size toArray size indexOf <END>
+<START> <START> ArrayList toArray clear toArray size clear remove:FALSE <END>
+<START> <START> ArrayList isEmpty:TRUE remove:FALSE toArray add <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size clear toArray <END>
+<START> <START> ArrayList toArray clear size isEmpty:TRUE toArray add <END>
+<START> <START> ArrayList toArray clear toArray toArray toArray <END>
+<START> <START> ArrayList toArray clear toArray add toArray add toArray toArray add <END>
+<START> <START> ArrayList toArray clear size isEmpty:TRUE toArray add size toArray get toArray remove <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size remove:FALSE addAll:FALSE <END>
+<START> <START> ArrayList toArray clear size isEmpty:TRUE toArray add toArray isEmpty:FALSE toArray <END>
+<START> <START> ArrayList toArray indexOf toArray size <END>
+<START> <START> ArrayList toArray toArray toArray size isEmpty:TRUE toArray add <END>
+<START> <START> ArrayList toArray addAll:TRUE remove:FALSE <END>
+<START> <START> ArrayList addAll:TRUE clear toArray <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE isEmpty:TRUE <END>
+<START> <START> ArrayList toArray size addAll:TRUE clear toArray <END>
+<START> <START> ArrayList indexOf add:TRUE clear toArray toArray toArray size toArray add toArray size <END>
+<START> <START> ArrayList toArray toArray size toArray size toArray isEmpty:TRUE toArray toArray <END>
+<START> <START> ArrayList toArray toArray size size toArray size clear toArray add <END>
+<START> <START> ArrayList toArray add isEmpty:FALSE clear add:TRUE remove:FALSE <END>
+<START> <START> ArrayList toArray indexOf addAll:FALSE <END>
+<START> <START> ArrayList isEmpty:TRUE clear toArray add size addAll:TRUE <END>
+<START> <START> ArrayList size isEmpty:TRUE clear toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add clear toArray <END>
+<START> <START> ArrayList toArray size size toArray isEmpty:TRUE toArray <END>
+<START> <START> ArrayList toArray clear clear isEmpty:TRUE indexOf toArray <END>
+<START> <START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add size toArray get toArray remove isEmpty:TRUE toArray size <END>
+<START> <START> ArrayList toArray clear clear isEmpty:TRUE toArray size <END>
+<START> <START> ArrayList isEmpty:TRUE clear toArray add toArray add toArray size isEmpty:FALSE <END>
+<START> <START> ArrayList clear toArray size clear isEmpty:TRUE addAll:TRUE <END>
+<START> <START> ArrayList toArray size addAll:TRUE toArray get toArray set <END>
+<START> <START> ArrayList toArray add toArray add addAll:TRUE toArray set <END>
+<START> <START> ArrayList size isEmpty:TRUE toArray size <END>
+<START> <START> ArrayList clear toArray size indexOf <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size toArray size indexOf toArray toArray <END>
+<START> <START> ArrayList toArray toArray addAll:TRUE toArray indexOf size <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add toArray size toArray remove size <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray size toArray size indexOf toArray add toArray <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE toArray toArray remove:FALSE <END>
+<START> <START> ArrayList toArray toArray remove:FALSE isEmpty:TRUE <END>
+<START> <START> ArrayList toArray size remove:FALSE toArray clear toArray add <END>
+<START> <START> ArrayList toArray add toArray remove toArray size add:TRUE <END>
+<START> <START> ArrayList addAll:FALSE size clear toArray size toArray size toArray <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size toArray add <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size toArray toArray <END>
+<START> <START> ArrayList toArray toArray size toArray size toArray size clear toArray add toArray size toArray size toArray size <END>
+<START> <START> ArrayList toArray size toArray size toArray size add:TRUE clear toArray add <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add size toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size toArray size toArray <END>
+<START> <START> ArrayList toArray size remove:FALSE toArray isEmpty:TRUE toArray toArray add <END>
+<START> <START> ArrayList toArray add isEmpty:FALSE add:TRUE toArray remove toArray size <END>
+<START> <START> ArrayList toArray toArray clear toArray clear toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray remove:FALSE <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray add toArray size toArray remove add:TRUE <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE remove:FALSE <END>
+<START> <START> ArrayList add:TRUE add:TRUE add:TRUE clear toArray toArray <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray add addAll:TRUE <END>
+<START> <START> ArrayList remove:FALSE toArray clear isEmpty:TRUE <END>
+<START> <START> ArrayList toArray clear clear isEmpty:TRUE toArray isEmpty:TRUE <END>
+<START> <START> ArrayList toArray clear toArray size toArray add size <END>
+<START> <START> ArrayList remove:FALSE toArray toArray size isEmpty:TRUE clear <END>
+<START> <START> ArrayList indexOf add:TRUE clear toArray toArray add <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE isEmpty:TRUE clear clear <END>
+<START> <START> ArrayList toArray size remove:FALSE toArray size isEmpty:TRUE toArray <END>
+<START> <START> ArrayList toArray toArray size clear toArray add <END>
+<START> <START> ArrayList indexOf add:TRUE clear toArray <END>
+<START> <START> ArrayList toArray toArray size toArray size toArray size addAll:TRUE remove:FALSE size <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size toArray size <END>
+<START> <START> ArrayList clear toArray <END>
+<START> <START> ArrayList toArray add isEmpty:FALSE add:TRUE clear <END>
+<START> <START> ArrayList toArray size size toArray size isEmpty:TRUE toArray <END>
+<START> <START> ArrayList toArray indexOf add:TRUE toArray size <END>
+<START> <START> ArrayList addAll:FALSE size clear toArray size indexOf <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add:TRUE toArray <END>
+<START> <START> ArrayList toArray clear clear toArray size size toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray <END>
+<START> <START> ArrayList clear toArray toArray size clear size add:TRUE <END>
+<START> <START> ArrayList toArray size size toArray size isEmpty:TRUE toArray add <END>
+<START> <START> ArrayList toArray toArray indexOf <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size <END>
+<START> <START> ArrayList remove:FALSE toArray toArray remove:FALSE toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size addAll:FALSE add:TRUE <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE toArray toArray remove:FALSE toArray toArray <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray size toArray size toArray add <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray add toArray size <END>
+<START> <START> ArrayList toArray toArray isEmpty:TRUE addAll:TRUE <END>
+<START> <START> ArrayList toArray toArray clear toArray <END>
+<START> <START> ArrayList toArray size remove:FALSE isEmpty:TRUE toArray <END>
+<START> <START> ArrayList isEmpty:TRUE clear toArray add toArray add <END>
+<START> <START> ArrayList isEmpty:TRUE remove:FALSE toArray add addAll:TRUE toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add toArray size addAll:TRUE <END>
+<START> <START> ArrayList toArray size addAll:TRUE clear toArray size <END>
+<START> <START> ArrayList toArray toArray clear toArray toArray <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size clear toArray size clear toArray <END>
+<START> <START> ArrayList clear toArray size toArray add <END>
+<START> <START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE add:TRUE toArray toArray <END>
+<START> <START> ArrayList toArray toArray add toArray addAll:TRUE remove:FALSE <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE toArray size <END>
+<START> <START> ArrayList toArray addAll:TRUE toArray size toArray get toArray set <END>
+<START> <START> ArrayList clear isEmpty:TRUE remove:FALSE toArray <END>
+<START> <START> ArrayList isEmpty:TRUE remove:FALSE toArray <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add size toArray remove toArray add <END>
+<START> <START> ArrayList remove:FALSE toArray toArray size indexOf <END>
+<START> <START> ArrayList toArray toArray clear toArray add <END>
+<START> <START> ArrayList toArray clear clear toArray size isEmpty:TRUE size <END>
+<START> <START> ArrayList toArray clear size isEmpty:TRUE toArray add toArray isEmpty:FALSE toArray size <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add toArray add toArray size toArray <END>
+<START> <START> ArrayList toArray toArray add toArray addAll:TRUE toArray set <END>
+<START> <START> ArrayList remove:FALSE toArray toArray size indexOf indexOf toArray <END>
+<START> <START> ArrayList toArray add toArray toArray remove toArray add indexOf <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add size remove:FALSE <END>
+<START> <START> ArrayList toArray clear toArray add toArray add toArray <END>
+<START> <START> ArrayList toArray clear remove:FALSE toArray add toArray get toArray <END>
+<START> <START> ArrayList toArray size remove:FALSE clear toArray add clear <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE toArray add:TRUE <END>
+<START> <START> ArrayList toArray size addAll:TRUE clear toArray size clear remove:FALSE <END>
+<START> <START> ArrayList size isEmpty:TRUE toArray clear isEmpty:TRUE <END>
+<START> <START> ArrayList size isEmpty:TRUE clear toArray size toArray size toArray add toArray add <END>
+<START> <START> ArrayList isEmpty:TRUE clear toArray add toArray size <END>
+<START> <START> ArrayList toArray isEmpty:TRUE addAll:TRUE toArray <END>
+<START> <START> ArrayList add:TRUE add:TRUE clear toArray <END>
+<START> <START> ArrayList remove:FALSE toArray isEmpty:TRUE <END>
+<START> <START> ArrayList remove:FALSE clear toArray add indexOf <END>
+<START> <START> ArrayList toArray clear clear isEmpty:TRUE toArray add toArray size <END>
+<START> <START> ArrayList toArray indexOf toArray size toArray <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE isEmpty:TRUE toArray size <END>
+<START> <START> ArrayList toArray size addAll:TRUE size toArray get toArray add toArray clear <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size addAll:FALSE <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray <END>
+<START> <START> ArrayList remove:FALSE clear toArray add <END>
+<START> <START> ArrayList isEmpty:TRUE toArray size clear <END>
+<START> <START> ArrayList add:TRUE toArray get isEmpty:FALSE toArray size remove:FALSE <END>
+<START> <START> ArrayList toArray indexOf isEmpty:TRUE isEmpty:TRUE toArray <END>
+<START> <START> ArrayList toArray remove:FALSE clear <END>
+<START> <START> ArrayList toArray size isEmpty:TRUE toArray size toArray size toArray size toArray <END>
+<START> <START> ArrayList isEmpty:TRUE clear toArray <END>
+<START> <START> ArrayList toArray toArray size addAll:TRUE toArray get toArray <END>
+<START> <START> ArrayList remove:FALSE toArray size <END>
+<START> <START> ArrayList isEmpty:TRUE clear toArray add <END>
+<START> <START> ArrayList isEmpty:TRUE toArray add clear indexOf <END>
+<START> <START> ArrayList remove:FALSE toArray toArray size isEmpty:TRUE toArray <END>

@@ -1,0 +1,17 @@
+<START> <START> ArrayList toArray add clear isEmpty:TRUE toArray <END>
+<START> <START> ArrayList toArray size add:TRUE addAll:TRUE add:TRUE <END>
+<START> <START> ArrayList toArray size addAll:TRUE isEmpty:FALSE size toArray remove <END>
+<START> <START> ArrayList toArray add clear indexOf isEmpty:TRUE toArray size <END>
+<START> <START> ArrayList add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE clear size addAll:TRUE size <END>
+<START> <START> ArrayList toArray add clear indexOf isEmpty:TRUE isEmpty:TRUE toArray <END>
+<START> <START> ArrayList toArray size addAll:TRUE isEmpty:FALSE size <END>
+<START> <START> ArrayList toArray size addAll:TRUE isEmpty:FALSE remove:FALSE toArray remove <END>
+<START> <START> ArrayList toArray size addAll:TRUE isEmpty:FALSE remove:FALSE <END>
+<START> <START> ArrayList toArray size addAll:TRUE isEmpty:FALSE indexOf <END>
+<START> <START> ArrayList toArray add clear indexOf isEmpty:TRUE <END>
+<START> <START> ArrayList toArray size addAll:TRUE isEmpty:FALSE remove:FALSE isEmpty:FALSE <END>
+<START> <START> ArrayList toArray add clear indexOf isEmpty:TRUE clear toArray <END>
+<START> <START> ArrayList toArray add:TRUE addAll:TRUE remove:TRUE <END>
+<START> <START> ArrayList toArray add isEmpty:FALSE toArray indexOf toArray size toArray remove isEmpty:TRUE <END>
+<START> <START> ArrayList toArray add toArray remove toArray size isEmpty:TRUE <END>
+<START> <START> ArrayList toArray add clear indexOf isEmpty:TRUE remove:FALSE <END>

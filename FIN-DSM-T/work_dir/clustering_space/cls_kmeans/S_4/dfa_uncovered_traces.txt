@@ -1,0 +1,33 @@
+<START> ArrayList toArray add clear isEmpty:TRUE toArray <END>
+	3	<START> ArrayList toArray add clear isEmpty:TRUE
+###################################
+<START> ArrayList toArray add clear indexOf isEmpty:TRUE toArray size <END>
+	3	<START> ArrayList toArray add clear indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray add clear indexOf isEmpty:TRUE isEmpty:TRUE toArray <END>
+	3	<START> ArrayList toArray add clear indexOf isEmpty:TRUE
+###################################
+<START> ArrayList isEmpty:TRUE toArray add toArray remove toArray remove:FALSE isEmpty:TRUE <END>
+	3	<START> ArrayList isEmpty:TRUE toArray add toArray remove toArray remove:FALSE isEmpty:TRUE
+###################################
+<START> ArrayList isEmpty:TRUE toArray add size toArray get toArray remove isEmpty:TRUE clear <END>
+	3	<START> ArrayList isEmpty:TRUE toArray add size toArray get toArray remove isEmpty:TRUE
+###################################
+<START> ArrayList toArray add clear indexOf isEmpty:TRUE <END>
+	3	<START> ArrayList toArray add clear indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray add clear indexOf isEmpty:TRUE clear toArray <END>
+	3	<START> ArrayList toArray add clear indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray add isEmpty:FALSE toArray indexOf toArray size toArray remove isEmpty:TRUE <END>
+	3	<START> ArrayList toArray add isEmpty:FALSE toArray indexOf toArray size toArray remove isEmpty:TRUE
+###################################
+<START> ArrayList toArray add toArray remove toArray size isEmpty:TRUE <END>
+	3	<START> ArrayList toArray add toArray remove toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray add clear indexOf isEmpty:TRUE remove:FALSE <END>
+	3	<START> ArrayList toArray add clear indexOf isEmpty:TRUE
+###################################
+<START> ArrayList isEmpty:TRUE toArray add size toArray get toArray remove isEmpty:TRUE toArray size <END>
+	3	<START> ArrayList isEmpty:TRUE toArray add size toArray get toArray remove isEmpty:TRUE
+###################################

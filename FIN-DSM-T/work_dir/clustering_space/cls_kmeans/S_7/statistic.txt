@@ -1,0 +1,7 @@
+FSM_size:	8
+DFA_size:	21
+MinDFA_size:	19
+DFA_validation:	1844
+num_cluster:	7
+total_validation_traces:	1861
+recall:	0.9908651262761956

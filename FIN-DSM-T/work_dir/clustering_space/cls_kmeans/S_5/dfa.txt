@@ -1,0 +1,51 @@
+1
+0
+1
+4
+46
+2	2	clear
+3	1	toArray
+1	2	add:TRUE
+3	2	add:TRUE
+1	1	remove:TRUE
+1	1	toArray
+2	2	addAll:TRUE
+5	3	ArrayList
+2	2	add:TRUE
+3	3	isEmpty:TRUE
+1	1	get
+1	1	isEmpty:TRUE
+2	2	set
+2	2	get
+2	2	isEmpty:TRUE
+2	2	remove:TRUE
+3	3	remove:FALSE
+1	1	remove:FALSE
+1	1	addAll:TRUE
+3	3	addAll:TRUE
+2	2	remove
+2	2	add
+1	1	size
+3	3	size
+1	1	clear
+3	3	clear
+2	2	addAll:FALSE
+2	2	isEmpty:FALSE
+2	2	toArray
+1	1	addAll:FALSE
+2	4	<END>
+0	5	<START>
+3	3	addAll:FALSE
+2	2	indexOf
+1	1	isEmpty:FALSE
+3	3	isEmpty:FALSE
+1	4	<END>
+3	4	<END>
+1	1	indexOf
+3	3	indexOf
+2	2	remove:FALSE
+2	2	clone
+2	2	size
+1	1	remove
+1	1	add
+1	1	set

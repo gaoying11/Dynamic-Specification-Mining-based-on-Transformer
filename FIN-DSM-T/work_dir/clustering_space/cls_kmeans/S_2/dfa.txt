@@ -1,0 +1,24 @@
+1
+0
+1
+2
+19
+1	1	addAll:TRUE
+1	1	toArray
+1	1	isEmpty:FALSE
+1	1	size
+1	1	remove:TRUE
+1	1	clone
+1	1	remove:FALSE
+1	1	clear
+1	1	indexOf
+1	1	get
+1	1	add:TRUE
+1	2	<END>
+3	1	ArrayList
+0	3	<START>
+1	1	remove
+1	1	add
+1	1	addAll:FALSE
+1	1	isEmpty:TRUE
+1	1	set

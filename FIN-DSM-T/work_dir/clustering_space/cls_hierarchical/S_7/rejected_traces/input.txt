@@ -1,0 +1,4 @@
+<START> <START> ArrayList add:TRUE toArray get isEmpty:FALSE toArray isEmpty:FALSE toArray size <END>
+<START> <START> ArrayList toArray add isEmpty:FALSE toArray indexOf toArray size toArray remove isEmpty:TRUE <END>
+<START> <START> ArrayList toArray size addAll:TRUE toArray get toArray add toArray get addAll:FALSE <END>
+<START> <START> ArrayList add:TRUE toArray get isEmpty:FALSE toArray size remove:FALSE <END>

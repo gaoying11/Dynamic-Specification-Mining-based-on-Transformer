@@ -1,0 +1,864 @@
+<START> ArrayList toArray size remove:FALSE remove:FALSE indexOf addAll:FALSE addAll:TRUE <END>
+	0	<START> ArrayList toArray size remove:FALSE remove:FALSE indexOf addAll:FALSE addAll:TRUE
+###################################
+<START> ArrayList toArray size toArray isEmpty:TRUE indexOf toArray add <END>
+	0	<START> ArrayList toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray add isEmpty:FALSE toArray addAll:TRUE isEmpty:FALSE <END>
+	0	<START> ArrayList toArray add isEmpty:FALSE toArray addAll:TRUE isEmpty:FALSE
+###################################
+<START> ArrayList toArray clear clear isEmpty:TRUE indexOf indexOf <END>
+	0	<START> ArrayList toArray clear clear isEmpty:TRUE indexOf
+###################################
+<START> ArrayList toArray addAll:TRUE remove:FALSE size toArray toArray size <END>
+	0	<START> ArrayList toArray addAll:TRUE remove:FALSE size
+###################################
+<START> ArrayList toArray size addAll:TRUE clear toArray size isEmpty:TRUE size toArray add:TRUE <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList toArray clear size isEmpty:TRUE toArray add toArray isEmpty:FALSE size <END>
+	0	<START> ArrayList toArray clear size isEmpty:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE toArray toArray <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray add isEmpty:FALSE toArray addAll:TRUE toArray set isEmpty:FALSE <END>
+	0	<START> ArrayList toArray add isEmpty:FALSE toArray addAll:TRUE toArray
+###################################
+<START> ArrayList toArray addAll:FALSE addAll:TRUE indexOf <END>
+	0	<START> ArrayList toArray addAll:FALSE addAll:TRUE indexOf
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE toArray toArray remove:FALSE toArray add:TRUE toArray remove:TRUE <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList add:TRUE remove:FALSE toArray <END>
+	0	<START> ArrayList add:TRUE remove:FALSE toArray
+###################################
+<START> ArrayList toArray add clear isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray add clear isEmpty:TRUE
+###################################
+<START> ArrayList toArray add toArray size addAll:TRUE clear <END>
+	0	<START> ArrayList toArray add toArray size addAll:TRUE clear
+###################################
+<START> ArrayList toArray size addAll:TRUE clear toArray size isEmpty:TRUE size <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList toArray size toArray isEmpty:TRUE toArray indexOf <END>
+	0	<START> ArrayList toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray size toArray size add:TRUE clear indexOf isEmpty:TRUE <END>
+	0	<START> ArrayList toArray toArray size toArray size add:TRUE clear indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray size toArray size toArray size isEmpty:TRUE <END>
+	0	<START> ArrayList toArray toArray size toArray size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size clear toArray addAll:TRUE <END>
+	0	<START> ArrayList toArray size clear toArray addAll:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE toArray size toArray size add:TRUE <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size add:TRUE addAll:TRUE add:TRUE <END>
+	0	<START> ArrayList toArray size add:TRUE addAll:TRUE add:TRUE
+###################################
+<START> ArrayList toArray clear clear isEmpty:TRUE indexOf indexOf toArray add toArray get <END>
+	0	<START> ArrayList toArray clear clear isEmpty:TRUE indexOf
+###################################
+<START> ArrayList toArray size addAll:TRUE clear toArray size toArray add add:TRUE <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList toArray size toArray isEmpty:TRUE toArray size <END>
+	0	<START> ArrayList toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size toArray isEmpty:TRUE addAll:TRUE <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE clear toArray size clear remove:FALSE toArray <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList toArray addAll:TRUE remove:FALSE size toArray <END>
+	0	<START> ArrayList toArray addAll:TRUE remove:FALSE size
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size remove:FALSE clear <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList remove:FALSE addAll:TRUE isEmpty:FALSE toArray set <END>
+	0	<START> ArrayList remove:FALSE addAll:TRUE isEmpty:FALSE toArray
+###################################
+<START> ArrayList toArray size addAll:TRUE isEmpty:FALSE size toArray remove <END>
+	0	<START> ArrayList toArray size addAll:TRUE isEmpty:FALSE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE add:TRUE add:TRUE <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size size toArray size isEmpty:TRUE toArray add isEmpty:FALSE <END>
+	0	<START> ArrayList toArray size size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE clear isEmpty:TRUE <END>
+	0	<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE clear
+###################################
+<START> ArrayList toArray toArray size toArray size toArray size isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray toArray size toArray size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size toArray isEmpty:TRUE clear <END>
+	0	<START> ArrayList toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray size size toArray size toArray isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size size toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray addAll:TRUE toArray remove toArray get <END>
+	0	<START> ArrayList toArray addAll:TRUE toArray remove toArray get
+###################################
+<START> ArrayList toArray clear size isEmpty:TRUE toArray add toArray toArray <END>
+	0	<START> ArrayList toArray clear size isEmpty:TRUE
+###################################
+<START> ArrayList toArray add clear indexOf isEmpty:TRUE toArray size <END>
+	0	<START> ArrayList toArray add clear indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray clear size isEmpty:TRUE toArray toArray <END>
+	0	<START> ArrayList toArray clear size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size indexOf toArray isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size indexOf toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray size toArray size isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size indexOf size toArray isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size indexOf size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE remove:FALSE <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size toArray isEmpty:TRUE indexOf <END>
+	0	<START> ArrayList toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE clear toArray size addAll:TRUE indexOf toArray size <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size remove:FALSE <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size toArray isEmpty:TRUE indexOf isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray size remove:FALSE isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size remove:FALSE isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE clear addAll:TRUE <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList isEmpty:TRUE toArray size isEmpty:TRUE <END>
+	0	<START> ArrayList isEmpty:TRUE toArray size isEmpty:TRUE
+###################################
+<START> ArrayList add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE clear size addAll:TRUE size <END>
+	0	<START> ArrayList add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE add:TRUE clear size addAll:TRUE size
+###################################
+<START> ArrayList toArray isEmpty:TRUE clear indexOf <END>
+	0	<START> ArrayList toArray isEmpty:TRUE clear indexOf
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size remove:FALSE addAll:TRUE clear <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList remove:FALSE toArray toArray remove:FALSE isEmpty:TRUE <END>
+	0	<START> ArrayList remove:FALSE toArray toArray remove:FALSE isEmpty:TRUE
+###################################
+<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE indexOf clear size <END>
+	0	<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE indexOf
+###################################
+<START> ArrayList toArray toArray size toArray size isEmpty:TRUE <END>
+	0	<START> ArrayList toArray toArray size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE clear toArray size size toArray <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList remove:FALSE toArray toArray size isEmpty:TRUE toArray size toArray add <END>
+	0	<START> ArrayList remove:FALSE toArray toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size indexOf addAll:TRUE add:TRUE <END>
+	0	<START> ArrayList toArray size indexOf addAll:TRUE add:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE isEmpty:TRUE clear toArray <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE toArray toArray addAll:TRUE <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray clear size isEmpty:TRUE indexOf toArray <END>
+	0	<START> ArrayList toArray clear size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size toArray size isEmpty:TRUE toArray add <END>
+	0	<START> ArrayList toArray size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray addAll:TRUE toArray get <END>
+	0	<START> ArrayList toArray addAll:TRUE toArray get
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size size isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size size isEmpty:TRUE
+###################################
+<START> ArrayList size toArray size toArray add addAll:TRUE size <END>
+	0	<START> ArrayList size toArray size toArray add addAll:TRUE size
+###################################
+<START> ArrayList toArray add clear indexOf isEmpty:TRUE isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray add clear indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray size addAll:TRUE addAll:TRUE clear <END>
+	0	<START> ArrayList toArray toArray size addAll:TRUE addAll:TRUE clear
+###################################
+<START> ArrayList toArray size addAll:TRUE clear toArray size clear remove:FALSE isEmpty:TRUE toArray add <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList toArray toArray size toArray size remove:FALSE clear addAll:TRUE <END>
+	0	<START> ArrayList toArray toArray size toArray size remove:FALSE clear addAll:TRUE
+###################################
+<START> ArrayList toArray toArray size size toArray size isEmpty:TRUE toArray add:TRUE addAll:TRUE <END>
+	0	<START> ArrayList toArray toArray size size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray clear clear isEmpty:TRUE add:TRUE remove:FALSE add:TRUE <END>
+	0	<START> ArrayList toArray clear clear isEmpty:TRUE add:TRUE remove:FALSE add:TRUE
+###################################
+<START> ArrayList toArray toArray size toArray size indexOf isEmpty:TRUE indexOf add:TRUE <END>
+	0	<START> ArrayList toArray toArray size toArray size indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE toArray <END>
+	0	<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE toArray
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size toArray size toArray <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE size toArray get toArray add toArray add:TRUE <END>
+	0	<START> ArrayList toArray size addAll:TRUE size
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList indexOf toArray toArray size clear addAll:TRUE <END>
+	0	<START> ArrayList indexOf toArray toArray size clear addAll:TRUE
+###################################
+<START> ArrayList size toArray size isEmpty:TRUE toArray add <END>
+	0	<START> ArrayList size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList addAll:FALSE size clear toArray size isEmpty:TRUE <END>
+	0	<START> ArrayList addAll:FALSE size clear toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size toArray isEmpty:TRUE toArray size isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray toArray size clear isEmpty:TRUE <END>
+	0	<START> ArrayList toArray toArray toArray size clear isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray toArray size isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray toArray toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size toArray isEmpty:TRUE indexOf toArray <END>
+	0	<START> ArrayList toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray size indexOf isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size <END>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size toArray size toArray size isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size toArray size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray add toArray addAll:TRUE add:TRUE <END>
+	0	<START> ArrayList toArray add toArray addAll:TRUE add:TRUE
+###################################
+<START> ArrayList toArray toArray size toArray size toArray isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray toArray size toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList indexOf add:TRUE addAll:FALSE toArray size <END>
+	0	<START> ArrayList indexOf add:TRUE addAll:FALSE toArray
+###################################
+<START> ArrayList toArray size toArray isEmpty:TRUE remove:FALSE clear <END>
+	0	<START> ArrayList toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray addAll:TRUE clear remove:FALSE add:TRUE <END>
+	0	<START> ArrayList toArray addAll:TRUE clear remove:FALSE add:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE isEmpty:FALSE size <END>
+	0	<START> ArrayList toArray size addAll:TRUE isEmpty:FALSE
+###################################
+<START> ArrayList toArray size size isEmpty:TRUE toArray clear <END>
+	0	<START> ArrayList toArray size size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray add toArray get remove:FALSE clear <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray size toArray size toArray toArray size isEmpty:TRUE <END>
+	0	<START> ArrayList toArray toArray size toArray size toArray toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE toArray toArray remove:FALSE toArray <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size toArray isEmpty:TRUE isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList size toArray size isEmpty:TRUE <END>
+	0	<START> ArrayList size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray addAll:TRUE toArray toArray remove toArray get <END>
+	0	<START> ArrayList toArray addAll:TRUE toArray toArray remove toArray get
+###################################
+<START> ArrayList add:TRUE addAll:TRUE toArray add <END>
+	0	<START> ArrayList add:TRUE addAll:TRUE toArray
+###################################
+<START> ArrayList toArray size size toArray size remove:FALSE isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size size toArray size remove:FALSE isEmpty:TRUE
+###################################
+<START> ArrayList isEmpty:TRUE clear size toArray size isEmpty:TRUE <END>
+	0	<START> ArrayList isEmpty:TRUE clear size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE toArray size toArray add <END>
+	0	<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE toArray
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray toArray <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray add isEmpty:FALSE toArray addAll:TRUE toArray size clear <END>
+	0	<START> ArrayList toArray add isEmpty:FALSE toArray addAll:TRUE toArray
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE toArray toArray remove:FALSE toArray remove:FALSE toArray <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray size addAll:TRUE addAll:FALSE toArray remove toArray <END>
+	0	<START> ArrayList toArray toArray size addAll:TRUE addAll:FALSE
+###################################
+<START> ArrayList toArray size clear isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size clear isEmpty:TRUE
+###################################
+<START> ArrayList toArray size size toArray isEmpty:TRUE remove:FALSE isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE isEmpty:FALSE remove:FALSE toArray remove <END>
+	0	<START> ArrayList toArray size addAll:TRUE isEmpty:FALSE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE toArray size toArray <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE clear toArray size toArray add size <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList toArray toArray isEmpty:TRUE toArray indexOf <END>
+	0	<START> ArrayList toArray toArray isEmpty:TRUE toArray indexOf
+###################################
+<START> ArrayList toArray size remove:FALSE toArray isEmpty:TRUE size <END>
+	0	<START> ArrayList toArray size remove:FALSE toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE clear toArray size <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size toArray size toArray size isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray size toArray size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray toArray size isEmpty:TRUE add:TRUE size indexOf <END>
+	0	<START> ArrayList toArray toArray toArray size isEmpty:TRUE
+###################################
+<START> ArrayList clear toArray size clear isEmpty:TRUE indexOf <END>
+	0	<START> ArrayList clear toArray size clear isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE isEmpty:FALSE remove:FALSE <END>
+	0	<START> ArrayList toArray size addAll:TRUE isEmpty:FALSE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size indexOf isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray size indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray add isEmpty:FALSE toArray addAll:TRUE toArray add toArray remove <END>
+	0	<START> ArrayList toArray add isEmpty:FALSE toArray addAll:TRUE toArray
+###################################
+<START> ArrayList toArray add isEmpty:FALSE toArray addAll:TRUE add:TRUE <END>
+	0	<START> ArrayList toArray add isEmpty:FALSE toArray addAll:TRUE add:TRUE
+###################################
+<START> ArrayList clear toArray size clear addAll:TRUE clear <END>
+	0	<START> ArrayList clear toArray size clear addAll:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray add toArray get remove:FALSE toArray set <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE size toArray size <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size remove:FALSE toArray isEmpty:TRUE clear <END>
+	0	<START> ArrayList toArray size remove:FALSE toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray size indexOf isEmpty:TRUE isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray size indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size toArray toArray size <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray size toArray size indexOf isEmpty:TRUE indexOf size toArray size <END>
+	0	<START> ArrayList toArray toArray size toArray size indexOf isEmpty:TRUE
+###################################
+<START> ArrayList indexOf toArray size isEmpty:TRUE <END>
+	0	<START> ArrayList indexOf toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE isEmpty:FALSE indexOf <END>
+	0	<START> ArrayList toArray size addAll:TRUE isEmpty:FALSE
+###################################
+<START> ArrayList toArray toArray toArray size isEmpty:TRUE remove:FALSE <END>
+	0	<START> ArrayList toArray toArray toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size clear <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size toArray <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList isEmpty:TRUE toArray add toArray remove toArray remove:FALSE isEmpty:TRUE <END>
+	0	<START> ArrayList isEmpty:TRUE toArray add toArray remove toArray remove:FALSE isEmpty:TRUE
+###################################
+<START> ArrayList toArray size remove:FALSE toArray isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray size remove:FALSE toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE add:TRUE <END>
+	0	<START> ArrayList toArray size addAll:TRUE add:TRUE
+###################################
+<START> ArrayList toArray toArray size toArray size isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray toArray size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList isEmpty:TRUE toArray add size toArray get toArray remove isEmpty:TRUE clear <END>
+	0	<START> ArrayList isEmpty:TRUE toArray add size toArray get toArray remove isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray size size toArray size isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray toArray size size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray size size toArray size size isEmpty:TRUE toArray size <END>
+	0	<START> ArrayList toArray toArray size size toArray size size isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray size size toArray size isEmpty:TRUE toArray add:TRUE <END>
+	0	<START> ArrayList toArray toArray size size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray add toArray get size remove:FALSE <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray clear size isEmpty:TRUE toArray add toArray <END>
+	0	<START> ArrayList toArray clear size isEmpty:TRUE
+###################################
+<START> ArrayList isEmpty:TRUE toArray size toArray isEmpty:TRUE <END>
+	0	<START> ArrayList isEmpty:TRUE toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE toArray size toArray size <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size indexOf remove:FALSE isEmpty:TRUE size toArray add <END>
+	0	<START> ArrayList toArray size indexOf remove:FALSE isEmpty:TRUE
+###################################
+<START> ArrayList toArray isEmpty:TRUE indexOf <END>
+	0	<START> ArrayList toArray isEmpty:TRUE indexOf
+###################################
+<START> ArrayList toArray add isEmpty:FALSE toArray indexOf isEmpty:FALSE add:TRUE add:TRUE <END>
+	0	<START> ArrayList toArray add isEmpty:FALSE toArray indexOf isEmpty:FALSE add:TRUE add:TRUE
+###################################
+<START> ArrayList toArray clear size toArray remove:FALSE isEmpty:TRUE isEmpty:TRUE <END>
+	0	<START> ArrayList toArray clear size toArray remove:FALSE isEmpty:TRUE
+###################################
+<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE indexOf <END>
+	0	<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE indexOf
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size clear toArray size clear remove:FALSE <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray add indexOf toArray size toArray size <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size indexOf remove:FALSE isEmpty:TRUE size size <END>
+	0	<START> ArrayList toArray size indexOf remove:FALSE isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE clear toArray size addAll:TRUE <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList toArray addAll:TRUE remove:FALSE size toArray toArray <END>
+	0	<START> ArrayList toArray addAll:TRUE remove:FALSE size
+###################################
+<START> ArrayList toArray add clear indexOf isEmpty:TRUE <END>
+	0	<START> ArrayList toArray add clear indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE toArray size <END>
+	0	<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE toArray
+###################################
+<START> ArrayList toArray size size isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray size size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size toArray isEmpty:TRUE add:TRUE isEmpty:FALSE <END>
+	0	<START> ArrayList toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE clear toArray <END>
+	0	<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE clear
+###################################
+<START> ArrayList toArray addAll:TRUE indexOf <END>
+	0	<START> ArrayList toArray addAll:TRUE indexOf
+###################################
+<START> ArrayList toArray size addAll:TRUE isEmpty:FALSE remove:FALSE isEmpty:FALSE <END>
+	0	<START> ArrayList toArray size addAll:TRUE isEmpty:FALSE
+###################################
+<START> ArrayList toArray size size isEmpty:TRUE clear add:TRUE <END>
+	0	<START> ArrayList toArray size size isEmpty:TRUE
+###################################
+<START> ArrayList toArray remove:FALSE isEmpty:TRUE <END>
+	0	<START> ArrayList toArray remove:FALSE isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size clear toArray size add:TRUE <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE size addAll:FALSE <END>
+	0	<START> ArrayList toArray size addAll:TRUE size
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE isEmpty:TRUE addAll:TRUE <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size clear toArray isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size clear toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray size toArray isEmpty:TRUE size <END>
+	0	<START> ArrayList toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE clear toArray size toArray add toArray set <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray add indexOf toArray size <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE clear toArray size clear remove:FALSE isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList toArray add clear indexOf isEmpty:TRUE clear toArray <END>
+	0	<START> ArrayList toArray add clear indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE toArray isEmpty:FALSE toArray set <END>
+	0	<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE toArray
+###################################
+<START> ArrayList toArray size indexOf clear addAll:TRUE toArray set <END>
+	0	<START> ArrayList toArray size indexOf clear addAll:TRUE
+###################################
+<START> ArrayList toArray add isEmpty:FALSE toArray indexOf toArray size toArray remove isEmpty:TRUE <END>
+	0	<START> ArrayList toArray add isEmpty:FALSE toArray indexOf toArray size toArray remove isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size clear toArray size toArray <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE addAll:FALSE <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray add toArray set addAll:TRUE toArray add add:TRUE <END>
+	0	<START> ArrayList toArray add toArray set addAll:TRUE toArray
+###################################
+<START> ArrayList toArray size clear addAll:TRUE <END>
+	0	<START> ArrayList toArray size clear addAll:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE clear toArray size isEmpty:TRUE toArray size toArray <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList toArray size addAll:TRUE clear toArray size clear <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList toArray size toArray isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size toArray addAll:FALSE <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size remove:FALSE toArray size <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE toArray size indexOf <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size remove:FALSE toArray isEmpty:TRUE add:TRUE toArray set <END>
+	0	<START> ArrayList toArray size remove:FALSE toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE toArray size size toArray <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray toArray size isEmpty:TRUE <END>
+	0	<START> ArrayList toArray toArray toArray size isEmpty:TRUE
+###################################
+<START> ArrayList isEmpty:TRUE toArray add clear addAll:TRUE isEmpty:FALSE <END>
+	0	<START> ArrayList isEmpty:TRUE toArray add clear addAll:TRUE isEmpty:FALSE
+###################################
+<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE size <END>
+	0	<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE size
+###################################
+<START> ArrayList add:TRUE addAll:TRUE toArray size <END>
+	0	<START> ArrayList add:TRUE addAll:TRUE toArray
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE toArray toArray remove:FALSE toArray add:TRUE <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList remove:FALSE toArray toArray size isEmpty:TRUE toArray size addAll:FALSE <END>
+	0	<START> ArrayList remove:FALSE toArray toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE size toArray get toArray add <END>
+	0	<START> ArrayList toArray size addAll:TRUE size
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size remove:FALSE addAll:TRUE <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size toArray isEmpty:TRUE add:TRUE <END>
+	0	<START> ArrayList toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE add:TRUE <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray size toArray size toArray isEmpty:TRUE <END>
+	0	<START> ArrayList toArray toArray size toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList indexOf toArray size isEmpty:TRUE toArray <END>
+	0	<START> ArrayList indexOf toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size remove:FALSE clear size size toArray isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size remove:FALSE clear size size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size toArray isEmpty:TRUE addAll:FALSE <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray add toArray remove toArray size isEmpty:TRUE <END>
+	0	<START> ArrayList toArray add toArray remove toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray add clear indexOf isEmpty:TRUE remove:FALSE <END>
+	0	<START> ArrayList toArray add clear indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE size toArray size toArray size size <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray toArray size isEmpty:TRUE add:TRUE toArray size toArray size <END>
+	0	<START> ArrayList toArray toArray toArray size isEmpty:TRUE
+###################################
+<START> ArrayList add:TRUE add:TRUE addAll:TRUE toArray size <END>
+	0	<START> ArrayList add:TRUE add:TRUE addAll:TRUE toArray
+###################################
+<START> ArrayList toArray add isEmpty:FALSE add:TRUE size <END>
+	0	<START> ArrayList toArray add isEmpty:FALSE add:TRUE size
+###################################
+<START> ArrayList toArray size addAll:TRUE size toArray get <END>
+	0	<START> ArrayList toArray size addAll:TRUE size
+###################################
+<START> ArrayList add:TRUE remove:FALSE add:TRUE <END>
+	0	<START> ArrayList add:TRUE remove:FALSE add:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray add <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList isEmpty:TRUE toArray size toArray toArray size isEmpty:TRUE toArray add toArray <END>
+	0	<START> ArrayList isEmpty:TRUE toArray size toArray toArray size isEmpty:TRUE
+###################################
+<START> ArrayList size toArray size addAll:FALSE isEmpty:TRUE <END>
+	0	<START> ArrayList size toArray size addAll:FALSE isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE isEmpty:FALSE <END>
+	0	<START> ArrayList toArray size addAll:TRUE isEmpty:FALSE
+###################################
+<START> ArrayList toArray toArray size isEmpty:TRUE <END>
+	0	<START> ArrayList toArray toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray isEmpty:TRUE toArray size addAll:TRUE <END>
+	0	<START> ArrayList toArray isEmpty:TRUE toArray size addAll:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size clear toArray <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray clear size isEmpty:TRUE toArray add <END>
+	0	<START> ArrayList toArray clear size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size remove:FALSE toArray isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size remove:FALSE toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray clear size isEmpty:TRUE toArray add size toArray get toArray remove <END>
+	0	<START> ArrayList toArray clear size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size remove:FALSE addAll:FALSE <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray clear size isEmpty:TRUE toArray add toArray isEmpty:FALSE toArray <END>
+	0	<START> ArrayList toArray clear size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size size isEmpty:TRUE size <END>
+	0	<START> ArrayList toArray size size isEmpty:TRUE
+###################################
+<START> ArrayList indexOf toArray size toArray size isEmpty:TRUE <END>
+	0	<START> ArrayList indexOf toArray size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray toArray size isEmpty:TRUE toArray add <END>
+	0	<START> ArrayList toArray toArray toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE isEmpty:TRUE <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE clear toArray <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList toArray toArray size toArray size toArray isEmpty:TRUE toArray toArray <END>
+	0	<START> ArrayList toArray toArray size toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray size toArray size indexOf isEmpty:TRUE <END>
+	0	<START> ArrayList toArray toArray size toArray size indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size size toArray isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray size size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray clear clear isEmpty:TRUE indexOf toArray <END>
+	0	<START> ArrayList toArray clear clear isEmpty:TRUE indexOf
+###################################
+<START> ArrayList isEmpty:TRUE toArray add size toArray get toArray remove isEmpty:TRUE toArray size <END>
+	0	<START> ArrayList isEmpty:TRUE toArray add size toArray get toArray remove isEmpty:TRUE
+###################################
+<START> ArrayList clear toArray size clear isEmpty:TRUE addAll:TRUE <END>
+	0	<START> ArrayList clear toArray size clear isEmpty:TRUE
+###################################
+<START> ArrayList toArray add add:TRUE isEmpty:FALSE <END>
+	0	<START> ArrayList toArray add add:TRUE isEmpty:FALSE
+###################################
+<START> ArrayList toArray toArray addAll:TRUE toArray indexOf size <END>
+	0	<START> ArrayList toArray toArray addAll:TRUE toArray indexOf
+###################################
+<START> ArrayList toArray size isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE toArray toArray remove:FALSE <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray size size toArray size isEmpty:TRUE <END>
+	0	<START> ArrayList toArray toArray size size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray remove:FALSE isEmpty:TRUE <END>
+	0	<START> ArrayList toArray toArray remove:FALSE isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size toArray add <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size toArray toArray <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size remove:FALSE toArray isEmpty:TRUE toArray toArray add <END>
+	0	<START> ArrayList toArray size remove:FALSE toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE clear <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList toArray toArray size toArray size toArray isEmpty:TRUE add:TRUE toArray get toArray <END>
+	0	<START> ArrayList toArray toArray size toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray add toArray size toArray remove add:TRUE <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE remove:FALSE <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList remove:FALSE toArray toArray size isEmpty:TRUE clear <END>
+	0	<START> ArrayList remove:FALSE toArray toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE isEmpty:TRUE clear clear <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size remove:FALSE toArray size isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray size remove:FALSE toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray size toArray size toArray size addAll:TRUE remove:FALSE size <END>
+	0	<START> ArrayList toArray toArray size toArray size toArray size addAll:TRUE remove:FALSE size
+###################################
+<START> ArrayList toArray toArray size toArray size toArray isEmpty:TRUE add:TRUE toArray get <END>
+	0	<START> ArrayList toArray toArray size toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList size toArray size toArray isEmpty:TRUE addAll:TRUE <END>
+	0	<START> ArrayList size toArray size toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray add isEmpty:FALSE add:TRUE clear <END>
+	0	<START> ArrayList toArray add isEmpty:FALSE add:TRUE clear
+###################################
+<START> ArrayList toArray size size toArray size isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray size size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size size toArray size isEmpty:TRUE toArray add <END>
+	0	<START> ArrayList toArray size size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE toArray toArray remove:FALSE toArray toArray <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray add toArray size <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray size isEmpty:TRUE size <END>
+	0	<START> ArrayList toArray toArray size isEmpty:TRUE
+###################################
+<START> ArrayList isEmpty:TRUE clear size toArray size isEmpty:TRUE toArray <END>
+	0	<START> ArrayList isEmpty:TRUE clear size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray clear size isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray clear size isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray toArray size isEmpty:TRUE add:TRUE indexOf <END>
+	0	<START> ArrayList toArray toArray toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size remove:FALSE isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray size remove:FALSE isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE clear toArray size <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList toArray toArray size size isEmpty:TRUE <END>
+	0	<START> ArrayList toArray toArray size size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size clear toArray size clear toArray <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE add:TRUE toArray toArray <END>
+	0	<START> ArrayList toArray isEmpty:TRUE add:TRUE addAll:FALSE add:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE toArray size <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size toArray toArray isEmpty:TRUE <END>
+	0	<START> ArrayList toArray size toArray toArray isEmpty:TRUE
+###################################
+<START> ArrayList toArray clear clear toArray size isEmpty:TRUE size <END>
+	0	<START> ArrayList toArray clear clear toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray clear size isEmpty:TRUE toArray add toArray isEmpty:FALSE toArray size <END>
+	0	<START> ArrayList toArray clear size isEmpty:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE toArray add:TRUE <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE clear toArray size clear remove:FALSE <END>
+	0	<START> ArrayList toArray size addAll:TRUE clear
+###################################
+<START> ArrayList toArray size addAll:TRUE isEmpty:FALSE toArray set <END>
+	0	<START> ArrayList toArray size addAll:TRUE isEmpty:FALSE
+###################################
+<START> ArrayList toArray size toArray size toArray size isEmpty:TRUE add:TRUE toArray size <END>
+	0	<START> ArrayList toArray size toArray size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE isEmpty:TRUE toArray size <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size addAll:TRUE size toArray get toArray add toArray clear <END>
+	0	<START> ArrayList toArray size addAll:TRUE size
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray indexOf isEmpty:TRUE isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray indexOf isEmpty:TRUE
+###################################
+<START> ArrayList toArray size isEmpty:TRUE toArray size toArray size toArray size toArray <END>
+	0	<START> ArrayList toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray toArray isEmpty:TRUE isEmpty:TRUE toArray size toArray size isEmpty:TRUE toArray <END>
+	0	<START> ArrayList toArray toArray isEmpty:TRUE isEmpty:TRUE toArray size toArray size isEmpty:TRUE
+###################################
+<START> ArrayList toArray size indexOf addAll:TRUE addAll:FALSE <END>
+	0	<START> ArrayList toArray size indexOf addAll:TRUE addAll:FALSE
+###################################
+<START> ArrayList toArray size remove:FALSE toArray isEmpty:TRUE add:TRUE <END>
+	0	<START> ArrayList toArray size remove:FALSE toArray isEmpty:TRUE
+###################################
+<START> ArrayList remove:FALSE toArray toArray size isEmpty:TRUE toArray <END>
+	0	<START> ArrayList remove:FALSE toArray toArray size isEmpty:TRUE
+###################################

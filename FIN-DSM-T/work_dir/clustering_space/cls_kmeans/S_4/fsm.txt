@@ -1,0 +1,52 @@
+1
+C2
+1
+CEND
+47
+C0	C0	remove:TRUE
+C1	C1	add
+C3	C3	toArray
+C3	C3	indexOf
+C3	C3	remove
+C1	C1	isEmpty:FALSE
+C1	C1	remove:TRUE
+C3	C3	set
+C0	C3	size
+C0	C0	addAll:FALSE
+C1	C1	clear
+C3	C3	addAll:FALSE
+C0	C0	isEmpty:FALSE
+C3	C3	isEmpty:FALSE
+C0	C0	clone
+C3	C3	size
+C1	C1	remove
+C1	C1	set
+C0	C0	indexOf
+C0	CEND	<END>
+C0	C3	toArray
+C3	C3	clear
+C1	C1	remove:FALSE
+C3	C3	addAll:TRUE
+C0	C0	addAll:TRUE
+C0	C0	remove:FALSE
+C1	C1	indexOf
+C3	C3	remove:FALSE
+C3	C3	add:TRUE
+C0	C0	size
+C0	C0	add:TRUE
+C1	C1	addAll:TRUE
+C1	C1	addAll:FALSE
+C0	C0	clear
+C1	CEND	<END>
+C1	C1	add:TRUE
+C1	C1	size
+C1	C1	toArray
+C3	C3	get
+C3	C3	isEmpty:TRUE
+C0	C0	isEmpty:TRUE
+C3	CEND	<END>
+C3	C3	remove:TRUE
+C1	C1	get
+CSTART	C0	ArrayList
+C2	CSTART	<START>
+C3	C1	add
